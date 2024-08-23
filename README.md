@@ -1,6 +1,5 @@
 # Encriptador-de-Texto---Alura
 
-# Encriptador de Textos
 Proyecto desarrollado como evidencia de la actividad Encriptador de Texto del programa One
 
 Este proyecto es una aplicación web que permite a los usuarios encriptar y desencriptar texto utilizando un método simple de sustitución de caracteres. Además, cuenta con una funcionalidad para copiar el texto encriptado al portapapeles y muestra alertas para informar al usuario sobre el estado de las operaciones realizadas.
@@ -11,6 +10,14 @@ Este proyecto es una aplicación web que permite a los usuarios encriptar y dese
 - **Desencriptación**: Reconvierte las secuencias de caracteres a las vocales originales.
 - **Copiar al Portapapeles**: Copia el texto encriptado al portapapeles con un solo clic.
 - **Alertas**: Notificaciones visuales que informan al usuario sobre el estado de sus acciones, como errores o confirmaciones.
+
+## Vista en dispositivos grandes
+
+![Proyecto](https://github.com/user-attachments/assets/8b2b8914-b410-4e81-93d6-bf1fc5017607)
+
+## Vista en dispositivos pequeños
+
+![Proyecto-movil](https://github.com/user-attachments/assets/236017dc-00b9-42a5-9357-31673c443fb9)
 
 ## Estructura del Proyecto
 
